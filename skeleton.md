@@ -1,0 +1,3 @@
+ What happens to the layout when you resize the screen to less than 550 px. How do you think that works?
+ If the webiste doesn't use responsive layout, when the screen is resized to less than 550 px, you will start to see part of the content disappearing and you will ony see the content that can fit 550px.
+ On the other hand, if the webiste has a reponsive layout, then you will find content resizing dynamically to fit the screen size and we will be able to see complete content but a bit smaller in size etc. depending on the design.
